@@ -1,0 +1,8 @@
+http://scikit-learn.org/stable/modules/tree.html
+http://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees
+http://scikit-learn.org/stable/modules/svm.html
+http://scikit-learn.org/stable/modules/neighbors.html#k-d-tree (?)
+http://scikit-learn.org/stable/modules/naive_bayes.html
+
+http://scikit-learn.org/stable/modules/cross_validation.html
+http://scikit-learn.org/stable/modules/feature_selection.html
